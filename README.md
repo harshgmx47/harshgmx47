@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsh Vadera
-- 👀 passionate Software Development🔥
+- 👀 passionate  Software Engineer🔥
 - 🌱 I’m currently polishing my skills on flutter  
 - 💞️ I’m always looking forward  too collaborate and join to coding contest.
 - 📫 How to reach me ...
