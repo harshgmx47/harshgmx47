@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @harshgmx47
-- 👀 I’m interested in Web development,Mobile application,Web Design.
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on .
+- 👋 Hi, I’m Harsh Vadera
+- 👀 passionate Software Development🔥
+- 🌱 I’m currently polishing my skills on flutter  
+- 💞️ I’m always looking forward  too collaborate and join to coding contest.
 - 📫 How to reach me ...
 - Email:-harshgmx47@gmail.com 
 - Phone:-09409682750
